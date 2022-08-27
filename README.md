@@ -18,8 +18,24 @@ Python - Flask
 
 ## 環境構築
 
+下記のコマンドを実行して、ライブラリをインストール
+
 ```
 pip install opencv-python
 pip install Flask
+
+```
+
+## 実行コマンド
+
+```
+コードをclone
+git clone https://github.com/shomffl/compare-image.git
+
+ディレクトリまで移動
+cd compare-image
+
+アプリケーション起動コマンド
+python app.py
 
 ```
